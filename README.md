@@ -16,8 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=muhamedanber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedanber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhamedanber&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -29,4 +27,3 @@
 <a href="https://my.flightradar24.com/muhamedanber"><img src="https://banners-my.flightradar24.com/muhamedanber.png" alt="My Flightdiary.net profile" /></a>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
