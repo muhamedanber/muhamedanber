@@ -23,6 +23,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=muhamedanber&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y0I71ZZOEZ)
+
 ### ✈️ Random Flight Radar Statistics
 <a href="https://my.flightradar24.com/muhamedanber"><img src="https://banners-my.flightradar24.com/muhamedanber.png" alt="My Flightdiary.net profile" /></a>
 
