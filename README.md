@@ -1,4 +1,4 @@
-## Hi, Im Mohammed 🤍✨
+## Hi, I'm Mohammed 🤍✨
 
 🧑🏻‍💻 An Egyptian Programmer<br />
 🧑🏻‍🎨 A Graphics Designer<br />
